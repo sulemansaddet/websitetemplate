@@ -1,0 +1,19 @@
+# Self-Review Evidence (02-self-review.txt)
+
+- **Student Name:** Suleman Saddet
+- **Assignment:** Career Fair Personal Resume Website Lab
+- **Live URL:** https://sulemansaddet.github.io/websitetemplate/
+
+## Self-Assessment & Quality Checks
+1. **Content & Identity Verification:**
+   - All original author placeholders (name, university, experience, projects) have been fully replaced.
+   - The website accurately reflects my background as a Master of Science in Data Science student at the University of Michigan-Flint.
+
+2. **Design & Responsiveness:**
+   - The layout uses a clean initials badge in the navigation sidebar in place of a missing profile image, avoiding broken asset errors.
+   - Tested page responsiveness across desktop and mobile screen viewports; layout and text contrast scale correctly using Materialize CSS.
+
+3. **Links & Deployment Functionality:**
+   - Verified that all internal section scrollspy links (`#about`, `#experience`, `#projects`, `#skills`, `#education`, `#contact`) function correctly.
+   - Tested the Resume PDF download link (`assets/resume/resume.pdf`), confirming it opens successfully in a new tab without throwing 404 errors.
+   - GitHub Pages deployment successfully builds from the `main` branch with zero broken asset paths.
