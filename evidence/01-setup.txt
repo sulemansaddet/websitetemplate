@@ -1,0 +1,8 @@
+Parent repo - https://github.com/AmalChUm/websitetemplate.git
+
+forked repo - https://github.com/sulemansaddet/websitetemplate
+
+local clone folder name - websitetemplate-contribution
+
+Default branch name - master
+
